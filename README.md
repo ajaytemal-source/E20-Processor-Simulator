@@ -8,7 +8,7 @@ This project is a cycle-accurate CPU and cache simulator written in C++. It mode
   - Implements arithmetic, logic, branching, memory, and jump instructions.  
   - Maintains program counter, general-purpose registers, and memory state.  
 
-- **E20 Cache Simulation**  
+- **Cache Simulation**  
   - Supports configurable L1 and optional L2 caches.  
   - Configurable associativity, block sizes, and replacement policies (LRU).  
   - Logs cache hits, misses, and store operations for analysis.  
